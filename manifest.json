@@ -1,0 +1,11 @@
+{
+  "API_Key": "3f233c3c4ee54bf9a1d45b604d04d068",
+  "API_Key_Encoded": "M2YyMzNjM2M0ZWU1NGJmOWExZDQ1YjYwNGQwNGQwNjg=\n",
+  "params": {
+              "interval": "1week",
+              "ticker": "SPY"
+            }
+}
+
+
+//1h, 2h, 4h, 1day, 1week, 1month

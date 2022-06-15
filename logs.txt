@@ -1,0 +1,2672 @@
+Last login: Tue May 31 00:47:19 on ttys000
+-bash: alias: my_python3: not found
+-bash: alias: =: not found
+-bash: alias: python3: not found
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+Anujs-MacBook-Pro:~ anuj$ ruby runner.rb
+ruby: No such file or directory -- runner.rb (LoadError)
+Anujs-MacBook-Pro:~ anuj$ cd Documents/RSI_Compression/
+Anujs-MacBook-Pro:RSI_Compression anuj$ ruby runner.rb
+runner.rb:64: syntax error, unexpected end-of-input, expecting `end'
+Anujs-MacBook-Pro:RSI_Compression anuj$ clear
+
+
+
+
+
+
+
+
+
+
+Anujs-MacBook-Pro:RSI_Compression anuj$ clear
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Anujs-MacBook-Pro:RSI_Compression anuj$ ruby runner.rb
+Process starts at 2022-05-31 00:51:40 -0700
+Total Tickers = 502
+ticker # 1
+Found a new ticker!! = SPY
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 2
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = QQQ
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 3
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 4
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 5
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 6
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 7
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 8
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 9
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = BRK.B
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 10
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 11
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 12
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = NVDA
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 13
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 14
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 15
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 16
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 17
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 18
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 19
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = HD
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 20
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = MA
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 21
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 22
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 23
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = BAC
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 24
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 25
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 26
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 27
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 28
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 29
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 30
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 31
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 32
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 33
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 34
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 35
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 36
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 37
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = ACN
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 38
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 39
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 40
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 41
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 42
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 43
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 44
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 45
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 46
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 47
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 48
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 49
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 50
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 51
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 52
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = COP
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 53
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = NKE
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 54
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 55
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 56
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 57
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 58
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 59
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 60
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 61
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 62
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 63
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 64
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 65
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = MS
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 66
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 67
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 68
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 69
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = ORCL
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 70
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 71
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = LMT
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 72
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 73
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 74
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = SCHW
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 75
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = AXP
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 76
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 77
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = PYPL
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 78
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 79
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = NOW
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 80
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 81
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = ADP
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 82
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 83
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 84
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 85
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 86
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 87
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = ADI
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 88
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 89
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 90
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 91
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 92
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 93
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 94
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 95
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 96
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 97
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 98
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = ZTS
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 99
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 100
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 101
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 102
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 103
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = TMUS
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 104
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = TJX
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 105
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 106
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 107
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 108
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 109
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = BA
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 110
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 111
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 112
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 113
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 114
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 115
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 116
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 117
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 118
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 119
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 120
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 121
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = FIS
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 122
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = PXD
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 123
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = EW
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 124
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = OXY
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 125
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = EQIX
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 126
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 127
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = ATVI
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 128
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 129
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 130
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = FISV
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 131
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 132
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 133
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 134
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = EL
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 135
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 136
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 137
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 138
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 139
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 140
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 141
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 142
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = APD
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 143
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 144
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 145
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = F
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 146
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 147
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 148
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 149
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = EMR
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 150
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 151
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 152
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = NXPI
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 153
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 154
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = MRNA
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 155
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 156
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 157
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = DOW
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 158
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 159
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 160
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = ADM
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 161
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 162
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 163
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 164
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 165
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = DVN
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 166
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 167
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 168
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 169
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 170
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 171
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = ADSK
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 172
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 173
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 174
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 175
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 176
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = CDNS
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 177
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 178
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 179
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = APH
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 180
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 181
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = TEL
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 182
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 183
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 184
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 185
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 186
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = ECL
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 187
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 188
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 189
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = MCHP
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 190
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = ILMN
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 191
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 192
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 193
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 194
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 195
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 196
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 197
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 198
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 199
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 200
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 201
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = CTSH
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 202
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 203
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = JCI
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 204
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = ALL
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 205
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 206
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 207
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = GPN
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 208
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 209
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 210
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 211
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 212
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 213
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 214
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 215
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 216
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 217
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 218
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = PH
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 219
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = CTAS
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 220
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 221
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 222
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = AJG
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 223
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 224
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 225
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = HES
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 226
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 227
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 228
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 229
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 230
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 231
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 232
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 233
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 234
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = MTB
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 235
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 236
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 237
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 238
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 239
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 240
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = AMP
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 241
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = FAST
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 242
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 243
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 244
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 245
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 246
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 247
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 248
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 249
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 250
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 251
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 252
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = TROW
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 253
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 254
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 255
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 256
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 257
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 258
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 259
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = RSG
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 260
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = AME
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 261
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 262
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 263
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 264
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 265
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = DXCM
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 266
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 267
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 268
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 269
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 270
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 271
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = FITB
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 272
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 273
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 274
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 275
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 276
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 277
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = WTW
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 278
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 279
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 280
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = ENPH
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 281
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 282
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = ZBH
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 283
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = CPRT
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 284
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 285
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 286
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 287
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 288
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 289
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 290
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 291
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = DHI
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 292
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 293
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 294
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 295
+ticker # 296
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = ANET
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 297
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 298
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 299
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 300
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 301
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 302
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 303
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 304
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 305
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = ANSS
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 306
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 307
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 308
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 309
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 310
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 311
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 312
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 313
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 314
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 315
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = CEG
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 316
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 317
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = GWW
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 318
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = LEN
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 319
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 320
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 321
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 322
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 323
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 324
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 325
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 326
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 327
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 328
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 329
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 330
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = FLT
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 331
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = CFG
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 332
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 333
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 334
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 335
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 336
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = PKI
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 337
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 338
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 339
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 340
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 341
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 342
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 343
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 344
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 345
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 346
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = CTLT
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 347
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 348
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 349
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 350
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 351
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 352
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = RJF
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 353
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 354
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 355
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 356
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = J
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 357
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 358
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = SWKS
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 359
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 360
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 361
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = TER
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 362
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 363
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 364
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 365
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 366
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = TRMB
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 367
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 368
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = CE
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 369
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 370
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = APA
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 371
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = VRSN
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 372
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = BR
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 373
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = AKAM
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 374
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 375
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = KMX
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 376
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 377
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 378
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 379
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 380
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = PEAK
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 381
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = CAH
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 382
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 383
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 384
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 385
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 386
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 387
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 388
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 389
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 390
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 391
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 392
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 393
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 394
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 395
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 396
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 397
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 398
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 399
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = SEDG
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 400
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 401
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 402
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 403
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 404
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 405
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 406
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 407
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = IEX
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 408
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 409
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 410
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 411
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = INCY
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 412
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 413
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 414
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 415
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 416
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 417
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 418
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = MAS
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 419
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = HWM
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 420
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 421
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 422
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 423
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 424
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 425
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 426
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 427
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 428
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 429
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 430
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 431
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = IPG
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 432
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 433
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 434
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 435
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = CRL
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 436
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 437
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 438
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = ABMD
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 439
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 440
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 441
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 442
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = NDSN
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 443
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = LVS
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 444
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 445
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 446
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 447
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = PHM
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 448
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 449
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 450
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 451
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 452
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 453
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 454
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 455
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 456
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = CMA
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 457
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 458
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 459
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = REG
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 460
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 461
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = ETSY
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 462
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 463
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 464
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 465
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 466
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 467
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 468
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 469
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 470
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 471
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 472
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 473
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 474
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 475
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 476
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 477
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 478
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 479
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 480
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = ZION
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 481
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 482
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 483
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 484
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 485
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 486
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 487
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = FRT
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 488
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 489
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = CDAY
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 490
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 491
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = NWSA
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 492
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 493
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 494
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 495
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 496
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 497
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 498
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+Found a new ticker!! = DISH
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 499
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 500
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 501
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+ticker # 502
+runner.rb:36: warning: already initialized constant RSIs
+runner.rb:54: warning: previous definition of RSIs was here
+runner.rb:54: warning: already initialized constant RSIs
+runner.rb:36: warning: previous definition of RSIs was here
+filtered tickers = ["SPY", "QQQ", "BRK.B", "NVDA", "HD", "MA", "BAC", "ACN", "COP", "NKE", "MS", "ORCL", "LMT", "SCHW", "AXP", "PYPL", "NOW", "ADP", "ADI", "ZTS", "TMUS", "TJX", "BA", "FIS", "PXD", "EW", "OXY", "EQIX", "ATVI", "FISV", "EL", "APD", "F", "EMR", "NXPI", "MRNA", "DOW", "ADM", "DVN", "ADSK", "CDNS", "APH", "TEL", "ECL", "MCHP", "ILMN", "CTSH", "JCI", "ALL", "GPN", "PH", "CTAS", "AJG", "HES", "MTB", "AMP", "FAST", "TROW", "RSG", "AME", "DXCM", "FITB", "WTW", "ENPH", "ZBH", "CPRT", "DHI", "ANET", "ANSS", "CEG", "GWW", "LEN", "FLT", "CFG", "PKI", "CTLT", "RJF", "J", "SWKS", "TER", "TRMB", "CE", "APA", "VRSN", "BR", "AKAM", "KMX", "PEAK", "CAH", "SEDG", "IEX", "INCY", "MAS", "HWM", "IPG", "CRL", "ABMD", "NDSN", "LVS", "PHM", "CMA", "REG", "ETSY", "ZION", "FRT", "CDAY", "NWSA", "DISH"]
+Process finished at 2022-05-31 01:13:21 -0700
+Anujs-MacBook-Pro:RSI_Compression anuj$
+
+
+["SPY", "QQQ", "BRK.B", "NVDA", "HD", "MA", "BAC", "ACN", "COP", "NKE", "MS", "ORCL", "LMT", "SCHW", "AXP", "PYPL", "NOW", "ADP", "ADI", "ZTS", "TMUS", "TJX", "BA", "FIS", "PXD", "EW", "OXY", "EQIX", "ATVI", "FISV", "EL", "APD", "F", "EMR", "NXPI", "MRNA", "DOW", "ADM", "DVN", "ADSK", "CDNS", "APH", "TEL", "ECL", "MCHP", "ILMN", "CTSH", "JCI", "ALL", "GPN", "PH", "CTAS", "AJG", "HES", "MTB", "AMP", "FAST", "TROW", "RSG", "AME", "DXCM", "FITB", "WTW", "ENPH", "ZBH", "CPRT", "DHI", "ANET","ANSS", "CEG", "GWW", "LEN", "FLT", "CFG", "PKI", "CTLT", "RJF", "J", "SWKS", "TER", "TRMB", "CE", "APA", "VRSN", "BR", "AKAM", "KMX", "PEAK", "CAH", "SEDG", "IEX", "INCY", "MAS", "HWM", "IPG", "CRL", "ABMD", "NDSN", "LVS", "PHM", "CMA", "REG", "ETSY", "ZION", "FRT", "CDAY", "NWSA", "DISH"].length
+
+
+Quality SetUps = SPY, QQQ, AAPL
